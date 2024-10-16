@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.app-container {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+  min-height: 100vh; /* Full height */
+  padding: 20px;
+}
+
+.app-container h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
